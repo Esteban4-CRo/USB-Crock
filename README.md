@@ -1,8 +1,6 @@
 # CROCK v2.0 — USB Remote Access Tool
 
-<p align="center">
-  <img src="images/Main.png" alt="CROCK Main" width="600">
-</p>
+![CROCK Main](images/Main.png)
 
 C2 con cifrado AES-256-CTR. Captura pantalla, keylogger, micrófono y cámara en tiempo real.
 
@@ -64,6 +62,5 @@ Desde PowerShell:
 
 ---
 
-## Tutorial / Demostración
-
-[Ver Video Tutorial en Google Drive](https://drive.google.com/file/d/1KPqkqVd2Pou5Akt5RE5BYSfrqhLKJ9B5/view?usp=sharing)
+## Tutorial
+[Video Tutorial CROCK](https://drive.google.com/file/d/1KPqkqVd2Pou5Akt5RE5BYSfrqhLKJ9B5/view?usp=sharing)
