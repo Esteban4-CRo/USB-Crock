@@ -1,4 +1,4 @@
-# CROCK v2.0 — USB Remote Access Tool
+# CROCK v1.0 — USB Remote Access Tool
 
 ![CROCK Main](images/Main.png)
 
